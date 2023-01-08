@@ -1,0 +1,9 @@
+langdetect==1.0.9
+SpeechRecognition 
+pydub
+pyaudio
+openai
+python-dotenv
+pytest
+pytest-coverage
+pytest-watch
