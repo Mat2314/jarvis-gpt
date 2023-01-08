@@ -1,5 +1,5 @@
 # Jarvis GPT
-A Python project which listens to user's speech and answers his/her questions using openai chat GPT API.
+A Python project which listens to user's speech and answers his/her questions using openai OpenAI API.
 
 # Usage
 First create a virtual environment and install all the requirements.
